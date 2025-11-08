@@ -6,3 +6,5 @@ pymupdf
 sentence-transformers # for embedding
 faiss-cpu   # vectorstore
 chromadb    # vectorstore
+langchain-groq
+python-dotenv
